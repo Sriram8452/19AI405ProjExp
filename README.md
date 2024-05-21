@@ -88,7 +88,8 @@ else:
 
 ## Output
 
-![image](https://github.com/niraunjana/19AI405ProjExp/assets/119395610/edc9ea82-1282-4526-b1f1-118615441b94)
+![image](https://github.com/Sriram8452/19AI405ProjExp/assets/118708032/e295de3e-9e29-42a5-a0d5-fc0d57b06206)
+
 
 
 ## Result
